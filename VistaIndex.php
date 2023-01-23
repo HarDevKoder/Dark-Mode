@@ -12,7 +12,7 @@
   <script src="sweetalert2.all.min.js"></script>
 </head>
 <body>
-  <h1 class="tituloPrincipal">Prácticas PHP</h1>
+  <h1 class="tituloPrincipal">Dark Mode</h1>
   <hr>
   <div class="container">
 
