@@ -1,0 +1,44 @@
+/* boton toggle dark/light */
+#modo{
+  width: 30px;
+  font-size: 40px;
+  margin: auto;
+  cursor:pointer;
+}
+
+/* control del body */
+.dark{
+  background: #202124;
+
+}
+
+.dark .descripcion{
+  color:azure;
+}
+
+.dark h1{
+  color:azure;
+}
+
+.dark .modo{
+  color:azure;
+}
+
+/* Estilos del boton toggle */
+.dark #modo{
+  color: orange;
+}
+
+/* Estilos de las tarjetas */
+.dark .card__perfil{
+  background: #04161D;
+  color:azure;
+}
+
+/* Estilos del texto del boton de tarjetas */
+.dark .enlace{
+  color: azure;
+  background: transparent;
+  outline: 1px solid azure;
+  border-radius: 20px;
+}
