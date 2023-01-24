@@ -1,4 +1,5 @@
-let modo = document.getElementById("modo");
+
+let modo = document.getElementById("lbl");
 let body = document.body;
 
 modo.addEventListener("click", () => {
