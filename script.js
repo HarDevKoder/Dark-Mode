@@ -14,4 +14,3 @@ if(valor=='true'){
 }else{
   body.classList.remove('dark');
 }
-
